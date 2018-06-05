@@ -1,0 +1,67 @@
+Partlist exported from C:/Users/amd/Documents/eagle/RaspiComm v3/RaspiComm_v3.sch at 19.10.2012 12:54:25
+
+Assembly variant: 
+
+Part    Value              Device             Package           Description                                                        
+5V                         JP1E               JP1               JUMPER                                                             
+BATT100 2032               2032               KZH20SMD                                                                             
+C1      100nF              C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C2      100nF              C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C3      100nF              C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C4      100nF              C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C5      24pF               C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C7      10uF               293DB              B(3528-21)                                                                           
+C8      24pF               C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C9      100nF              C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C10     100nF              C-EUC0603          C0603             CAPACITOR, European symbol                                         
+C11     100nF              C-EUC0603          C0603             CAPACITOR, European symbol                                         
+D1      LL4148             DIODE-SOD80C       SOD80C            DIODE                                                              
+D2      LL4148             DIODE-SOD80C       SOD80C            DIODE                                                              
+D3      AZ23C3V3-7-F       AZ23CXXX           SOT23             Dual-Zener Diode                                                   
+D4      AZ23C3V3-7-F       AZ23CXXX           SOT23             Dual-Zener Diode                                                   
+D5      AZ23C3V3-7-F       AZ23CXXX           SOT23             Dual-Zener Diode                                                   
+D6      SM712              AZ23CXXX           SOT23             Dual-Zener Diode                                                   
+D7      SDC15              AZ23CXXX           SOT23             Dual-Zener Diode                                                   
+I2C5V                      PINHD-2X4_2.54-SMD 2X04SMD           PIN HEADER                                                         
+IC1     MAX3311            MAX3311            UMAX10            460kbps, 1µA Supply Current, RS-232-Compatible Transceivers in µMAX
+IC2     DS1307             DS1307             SOIC-8            I2C Serial RTC w/56 bytes battery backed RAM                       
+IC3     MAX3140            MAX3140            QSOP28                                                                               
+IC4     LM3480IM4          LM3480IM4          SOT23-3                                                                              
+INPUT                      PINHD-1X6_2.00     1X06M             PIN HEADER                                                         
+LED1                       LEDSML0805         SML0805           LED                                                                
+LED2                       LEDSML0805         SML0805           LED                                                                
+OUT                        PINHD-1X4_2.00     1X04M             PIN HEADER                                                         
+PWR     31182102           31182102           31182102                                                                             
+Q1      BC847ASMD          BC847ASMD          SOT23             NPN Transistor                                                     
+Q2      BC847ASMD          BC847ASMD          SOT23             NPN Transistor                                                     
+Q3      EQ160-32.768-12.5  EQ160              EQ160                                                                                
+Q4      3.6864MHZ          QUARTZ49USMX       49USMX                                                                               
+R1      10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R2      1k                 R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R3      10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R4      1k                 R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R5      10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R6      1k                 R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R7      10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R8      1k                 R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R9      10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R10     1k                 R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R11     10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R12     1k                 R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R13     220                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R14     220                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R15     10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R16     1k                 R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R17     47                 R-EU_R1206         R1206             RESISTOR, European symbol                                          
+R19     120                R-EU_R1206         R1206             RESISTOR, European symbol                                          
+R20     47                 R-EU_R1206         R1206             RESISTOR, European symbol                                          
+R21     100k               R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R22     560                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R24     560                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+R25     10k                R-EU_R0603         R0603             RESISTOR, European symbol                                          
+RS232   31182103           31182103           31182103                                                                             
+RS485   31182103           31182103           31182103                                                                             
+SPI                        PINHD-1X6_2.00     1X06M             PIN HEADER                                                         
+SW1     SKQUDBE010         SKQUSMD            SKQU-SMD                                                                             
+TP1     TPB1,27            TPB1,27            B1,27             Test pad                                                           
+U$7     RASPBERRY-PIHEADER RASPBERRY-PIHEADER RASPI_GPIO_HEADER Raspberry Pi Board                                                 
